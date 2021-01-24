@@ -7,4 +7,5 @@ It also has functionality to log your study to a text file so you can remember w
 
 This project is based off Dr. Angela Yu's project in her 100 days of code series on Udemy, with enhancements.
 
-![ScreenShot](/blob/main/images/pomodoro.PNG?raw=true "Pomodoro App")
+
+![ScreenShot](images/pomodoro.PNG?raw=true "Pomodoro App")
